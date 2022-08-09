@@ -1,0 +1,93 @@
+#banner {
+    width: 100%;
+}
+
+.principal {
+    background-image: linear-gradient(to right,lightblue,rgb(47, 148, 241) );
+    padding: 30px;
+}
+
+.titulo-1 {
+    padding-left: 20px;
+    font-size: 32px;
+    font-weight: bolder;
+    padding: 10px 5px;
+}
+
+.titulo-centro {
+    text-align: center;
+    padding: 7px 0;
+    font-size: 22px;
+    font-weight: bolder;
+}
+
+p {
+    text-align: center;
+    padding: 4px 0;
+    font-size: 17px;
+}
+
+#missao {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+em strong {
+    color: blue;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.turmas{
+    background: white;
+    padding: 20px;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+    font-size: 16px;
+    padding: 0 10px;
+}
+
+.imgalunos {
+    width: 50%;
+    right: 50px;
+
+}
+
+footer {
+    font-size: 13px;
+    text-align: center;
+    margin: 20px 0 0;
+   }
+
+
+   nav {
+    position: absolute;
+    top: 15px;
+    right: 20px;
+  }
+ 
+  nav li {
+     display: inline;
+     margin: 0 0 0 15px;
+  }
+ 
+  nav a {
+     text-transform: uppercase;
+     color: black;
+     font-weight: bolder;
+     font-size: 22px;
+     text-decoration: none;
+  }
+ 
+  nav a:hover {
+   color: rgb(13, 77, 102);
+   text-decoration: underline;
+  }
+ 
